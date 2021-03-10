@@ -23,8 +23,4 @@ Este controlador proporciona las API de tipo Berkeley Socket.
 
 ## Cómo agregar ioLibrary en tu proyecto
   - Ejemplo: https://github.com/Leimer-G/stm32f4-eth-uart-communication
-  - Se muestra una explicacion de como usar ioLibrary
-    - Definir en qué chip se utiliza **wizchip_conf.h**
-    - Defina en qué modo Host I / F se utiliza **wizchip_conf.h**
-
-
+    - Se muestra una explicacion de como usar ioLibrary en su proyecto usando STM32 Cube IDE
